@@ -1,4 +1,4 @@
-package io.github.marianaalucena.domain.repositorio;
+package io.github.marianaalucena.domain.repository;
 
 import io.github.marianaalucena.domain.entity.Cliente;
 import org.springframework.beans.factory.annotation.Autowired;
